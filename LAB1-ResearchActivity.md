@@ -18,9 +18,11 @@
   - 3.1 if i need to use something simple (ease of use)
 
 # The most pillar difference between each cloud providers?
-|                                                  AWS                                                  | AZURE                                                                                                                                                        | GCP                                                                                                                    |
-|:-----------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Most services available, from networking to robotics Most mature More compute capacity vs Azure & GCP | Easy integration and migrations for existing Microsoft services Relatively cheaper for most services vs AWS & GCP  Great support for hybrid cloud strategies | Plays nicely with other Google service and products Excellent support for containerized workloads Global fiber network |
+|                          AWS                         | AZURE                                                           | GCP                                                 |
+|:----------------------------------------------------:|-----------------------------------------------------------------|-----------------------------------------------------|
+| Most services available, from networking to robotics | Easy integration and migrations for existing Microsoft services | Plays nicely with other Google service and products |
+| Most mature                                          | Relatively cheaper for most services vs AWS & GCP               | Excellent support for containerized workloads       |
+| More compute capacity vs Azure & GCP                 | Great support for hybrid cloud strategies                       | Global fiber network                                |
 
 ## Refrences
 - [*Top cloud providers*](https://www.c-sharpcorner.com/article/top-10-cloud-service-providers/).
