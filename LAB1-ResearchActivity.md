@@ -6,16 +6,16 @@
 # The best use case of each cloud providers?
 1. AWS :
 
-  1.1 if i need a variety of different features (AWS has the Most services available inside it)
+  - 1.1 if i need a variety of different features (AWS has the Most services available inside it)
 
-1. Azure
+2. Azure
 
-  1.1 if i'm highly dependent on MS-related products
-  1.2 if i will serve customers from around the globe (Azure is available in more locations than any other cloud)
+  - 2.1 if i'm highly dependent on MS-related products
+  - 2.2 if i will serve customers from around the globe (Azure is available in more locations than any other cloud)
 
-1. Google cloud :
+3. Google cloud :
 
-  1.1 if i need to use something simple (ease of use)
+  - 3.1 if i need to use something simple (ease of use)
 
 # The most pillar difference between each cloud providers?
 |                                                  AWS                                                  | AZURE                                                                                                                                                        | GCP                                                                                                                    |
